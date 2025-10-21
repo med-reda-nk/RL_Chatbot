@@ -1,4 +1,3 @@
-```markdown
 # RL Specialist Chatbot – Streamlit Web App
 
 A Streamlit web application that integrates a **Reinforcement Learning (RL) Specialist Botpress Chatbot** using a responsive iframe embed.
