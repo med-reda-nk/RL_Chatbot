@@ -88,4 +88,5 @@ else:
 
 # Footer for additional elegance
 st.markdown("---")
+
 st.markdown("<p style='text-align: center; color: #757575;'>Powered by Streamlit & Botpress | Customized for RL Enthusiasts | Mohamed Reda Nkira - Asmae Elhakioui</p>", unsafe_allow_html=True)
