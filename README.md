@@ -132,6 +132,7 @@ MIT License – Feel free to use, modify, and distribute.
 ## Author
 
 Mohamed Reda Nkira - Asmae Elhakioui
+
 Engineering Student | IATD-SI  
 [GitHub](https://github.com/med-reda-nk) | [LinkedIn](www.linkedin.com/in/mohamed-reda-nkira-5691432a3)
 
