@@ -54,9 +54,13 @@ The app will open in your browser at `http://localhost:8501`
 ```
 rl-chatbot-streamlit/
 │
-├── interface.py                  # Main Streamlit application
-├── README.md               # This file
+├── interface.py              # Main Streamlit application
+├── README.md                 # This file
+├── rlp.jpg                   # Logo
+├── rl (1).pdf                # documentation 1
+├── rltheorybook_AJKS (1).pdf # documentation 2
 └── requirements.txt
+
 ```
 
 ---
